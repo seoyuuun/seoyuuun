@@ -1,6 +1,6 @@
-### Hi there, I'm SeoYun 👋
+### Hi there, I'm SeoYun🏄‍
 
-I am a preparatory student always tries to be a front developer.🏄‍♀️<br/> 
+I am a preparatory student always tries to be a front developer.👏<br/> 
 So, I'm mostly with my laptop.🧑‍💻
 <br/><br/>
 My goal is to become a front-end developer <br/>
