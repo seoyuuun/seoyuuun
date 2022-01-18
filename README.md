@@ -1,6 +1,5 @@
 ### Hi there, I'm SeoYun 👋
 
-<br/>
 I am a preparatory student always tries to be a front developer.🏄‍♀️<br/> 
 So, I'm mostly with my laptop.🧑‍💻
 <br/><br/>
