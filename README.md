@@ -1,7 +1,5 @@
 ### Hi there, I'm SeoYun 👋
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 <br/>
 I am a preparatory student always tries to be a front developer.🏄‍♀️<br/> 
 So, I'm mostly with my laptop.🧑‍💻
