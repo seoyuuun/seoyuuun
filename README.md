@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm SeoYun 👋
 
+🌱 I’m currently learning React &node.js
 <!--
 **seoyuuun/seoyuuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
