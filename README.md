@@ -7,7 +7,6 @@ My goal is to become a front-end developer <br/>
 who creates services used by many users as soon as possible.🌻<br/>
 I hope I can improve day by day.💗
 
-<br/>
 
 ## 🥊 Skill
 
